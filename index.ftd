@@ -1,6 +1,3 @@
--- ftd.text: Hello `fastn`
-padding.px: 100
-
 -- ftd.row:
 spacing.fixed.px: 125
 padding-left.px: 10
