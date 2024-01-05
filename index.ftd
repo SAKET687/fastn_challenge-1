@@ -1,7 +1,7 @@
 -- ftd.row:
 spacing.fixed.px: 125
 padding-left.px: 10
-padding-left.px: 20
+padding-top.px: 20
 
 -- ftd.text: Extra Large Button
 region: h1
