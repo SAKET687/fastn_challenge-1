@@ -10,7 +10,6 @@ border-radius.px: 5
 color: white
 background.solid: turquoise
 border-color: turquoise
-link: /index
 
 
 -- ftd.text: Large Button
@@ -20,7 +19,6 @@ border-radius.px: 5
 color: white
 background.solid: turquoise
 border-color: turquoise
-link: /fastn_challenge-1/index
 
 
 -- ftd.text: Medium Button
